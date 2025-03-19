@@ -1,2 +1,2 @@
 # toy-practice
-solutions website to improve my JS skills.
+The above website is desinged to solve some of our everyday problems.It is an automated grader in which the user inputs the marks and the relevant grade is given.90% of accidents on our roads are caused by overspeeding.The above website demerits and even suspends driver's licenses depending on the number of times the driver exceed the speed limit.Finally it calculates one's salary and total tax payable , improving economic awareness.
